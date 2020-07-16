@@ -9,7 +9,7 @@
 
 3.git clone https://github.com/FajarTheGGman/FakeCall
 
-4.FakeCall
+4.cd FakeCall
 
 5.php spam.php
 
